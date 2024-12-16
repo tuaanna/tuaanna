@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **angtuaan/angtuaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm engtuaan</h1>
+<h1 align="center">Hi 👋, I'm tuaanna</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuaanna&label=Profile%20views&color=0e75b6&style=flat" alt="tuaanna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuaanna" alt="tuaanna" /></a> </p>
-
-<p align="left"> <a href="https://x.com/_tuaan_na" target="blank"><img src="https://img.shields.io/twitter/follow/_tuaan_na?logo=x&style=for-the-badge" alt="_tuaan_na" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://x.com/_tuaan_na" target="blank"><img src="https://img.shields.io/twitter/follow/_tuaan_na?logo=x&style=for-the-badge" alt="_tuaan_na" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuaanna&" alt="tuaanna" /></p>
 
-![Snake animation](https://github.com/tuaanna/tuaanna/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tuaanna/tuaanna/output/github-contribution-grid-snake.svg)
